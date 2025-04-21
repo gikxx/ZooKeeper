@@ -1,0 +1,11 @@
+C:\Users\1\RiderProjects\ZooKeeper\ZooKeeper.Domain\bin\Debug\net9.0\ZooKeeper.Domain.deps.json
+C:\Users\1\RiderProjects\ZooKeeper\ZooKeeper.Domain\bin\Debug\net9.0\ZooKeeper.Domain.dll
+C:\Users\1\RiderProjects\ZooKeeper\ZooKeeper.Domain\bin\Debug\net9.0\ZooKeeper.Domain.pdb
+C:\Users\1\RiderProjects\ZooKeeper\ZooKeeper.Domain\obj\Debug\net9.0\ZooKeeper.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\RiderProjects\ZooKeeper\ZooKeeper.Domain\obj\Debug\net9.0\ZooKeeper.Domain.AssemblyInfoInputs.cache
+C:\Users\1\RiderProjects\ZooKeeper\ZooKeeper.Domain\obj\Debug\net9.0\ZooKeeper.Domain.AssemblyInfo.cs
+C:\Users\1\RiderProjects\ZooKeeper\ZooKeeper.Domain\obj\Debug\net9.0\ZooKeeper.Domain.csproj.CoreCompileInputs.cache
+C:\Users\1\RiderProjects\ZooKeeper\ZooKeeper.Domain\obj\Debug\net9.0\ZooKeeper.Domain.dll
+C:\Users\1\RiderProjects\ZooKeeper\ZooKeeper.Domain\obj\Debug\net9.0\refint\ZooKeeper.Domain.dll
+C:\Users\1\RiderProjects\ZooKeeper\ZooKeeper.Domain\obj\Debug\net9.0\ZooKeeper.Domain.pdb
+C:\Users\1\RiderProjects\ZooKeeper\ZooKeeper.Domain\obj\Debug\net9.0\ref\ZooKeeper.Domain.dll

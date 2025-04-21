@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ZooKeeper.Presentation.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ZooKeeper.Presentation.props" />
+</Project>
